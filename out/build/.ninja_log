@@ -1,0 +1,8 @@
+# ninja log v5
+8	359	7308123190590189	openglwindow_autogen/timestamp	ca4926a5427b3d5e
+8	359	7308123190590189	D:/Divyaansh_Workspace/Qt/triangle1/out/build/openglwindow_autogen/timestamp	ca4926a5427b3d5e
+8	359	7308123190590189	D:/Divyaansh_Workspace/Qt/triangle1/out/build/openglwindow_autogen/mocs_compilation.cpp	ca4926a5427b3d5e
+360	2548	7308123212941832	CMakeFiles/openglwindow.dir/openglwindow_autogen/mocs_compilation.cpp.obj	2cb3395e6cd06b7d
+8	359	7308123190590189	openglwindow_autogen/mocs_compilation.cpp	ca4926a5427b3d5e
+367	2599	7308123213467731	CMakeFiles/openglwindow.dir/openglwindow.cpp.obj	276b4ff8aed69952
+363	2706	7308123214529581	CMakeFiles/openglwindow.dir/main.cpp.obj	c8adedc931397f7
