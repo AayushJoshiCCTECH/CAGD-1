@@ -1,0 +1,2 @@
+D:\Divyaansh_Workspace\Qt\triangle1\debug\openglwindow.exe
+D:\Aayush_Joshi\QT\QT assignment 1\triangle1\debug\openglwindow.exe

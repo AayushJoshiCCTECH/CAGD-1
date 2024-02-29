@@ -1,0 +1,8 @@
+D:/Divyaansh_Workspace/Qt/triangle1/out/build/CMakeFiles/openglwindow.dir
+D:/Divyaansh_Workspace/Qt/triangle1/out/build/CMakeFiles/edit_cache.dir
+D:/Divyaansh_Workspace/Qt/triangle1/out/build/CMakeFiles/rebuild_cache.dir
+D:/Divyaansh_Workspace/Qt/triangle1/out/build/CMakeFiles/list_install_components.dir
+D:/Divyaansh_Workspace/Qt/triangle1/out/build/CMakeFiles/install.dir
+D:/Divyaansh_Workspace/Qt/triangle1/out/build/CMakeFiles/install/local.dir
+D:/Divyaansh_Workspace/Qt/triangle1/out/build/CMakeFiles/openglwindow_autogen_timestamp_deps.dir
+D:/Divyaansh_Workspace/Qt/triangle1/out/build/CMakeFiles/openglwindow_autogen.dir
